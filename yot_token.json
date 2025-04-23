@@ -2,8 +2,10 @@
   "name": "YNENE-Dapp token",
   "symbol": "YOT",
   "uri": "https://i.imgur.com/2BAnmMx.png",  
-  "seller_fee_basis_points": 500, 
+  "seller_fee_basis_points": 500,
   "creators": null,
+  "attributes": [],
+  "collection": null,
   "properties": {
     "files": [
       {
