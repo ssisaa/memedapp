@@ -1,0 +1,18 @@
+{
+  "name": "YNANA-Dapp token",
+  "symbol": "YOS",
+  "uri": "https://raw.githubusercontent.com/ssisaa/memedapp/main/wYOTy.png",  
+  "seller_fee_basis_points": 500,
+  "creators": null,
+  "attributes": [],
+  "collection": null,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/ssisaa/memedapp/main/wYOTy.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
