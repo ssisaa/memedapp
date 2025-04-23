@@ -1,0 +1,10 @@
+{
+  "name": "NENE-Dapp token",
+  "symbol": "YOT",
+  "description": "My custom Solana token",
+  "image": "https://i.imgur.com/2BAnmMx.png",
+  "properties": {
+    "files": [{ "uri": "https://i.imgur.com/2BAnmMx.png", "type": "image/png" }],
+    "category": "image"
+  }
+}
