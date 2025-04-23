@@ -1,8 +1,9 @@
 {
   "name": "YNENE-Dapp token",
   "symbol": "YOT",
-  "description": "Your Own Token on Solana",
-  "image": "https://i.imgur.com/2BAnmMx.png",
+  "uri": "https://i.imgur.com/2BAnmMx.png",  
+  "seller_fee_basis_points": 500, 
+  "creators": null,
   "properties": {
     "files": [
       {
